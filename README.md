@@ -1,4 +1,4 @@
-# MCA
+# Music Curations and Analytics 2023 Lab Work
 ## Week 1 Lab
 
 \
