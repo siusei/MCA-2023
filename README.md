@@ -7,7 +7,7 @@
 **Chosen source:** "A Town with an Ocean View" by Joe Hisashi 
 musical scores: \
 metadata: \
-audio recordings: [Audio from YouTube](https://www.youtube.com/watch?v=XavziZ-C6qY)\
+audio recordings: [Audio from YouTube](https://www.youtube.com/watch?v=XavziZ-C6qY)
 
 \
 **Challenges to working with music and music-related data**
