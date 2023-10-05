@@ -20,6 +20,11 @@ Taking my music score searching journey as an example. In my search for this pie
 Apart from that, popular music soundtracks could be considered as a sustainable music sources where everyone can use it in videos or create covers or medley with the music data. For instance, my theme is movie theme songs and the cinematic audio tracks are the most effective source to evoke audiences’ emotions and memories if one used a movie soundtrack in their video production. Nonetheless, this action breaches copyright, which involves intellectual property violation and profit making issues. This is commonly seen in YouTube videos where YouTube would mutes copyrighted audio if the copyright holder wish to, and this apply to everyone against their copyright policy. On top of that, streaming licensed songs in public or online without permission is also illegal in the UK. It is crucial for content creators to be aware of licensing issue with each source they use.
 \
 
+## Week 2 Lab
+
+## Week 3 Lab
+{% include_relative Verovio_inline.html%}
+
 
 
 
