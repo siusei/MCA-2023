@@ -23,7 +23,7 @@ Apart from that, popular music soundtracks could be considered as a sustainable 
 ## Week 2 Lab
 
 ## Week 3 Lab
-{% include_relative verovio_inline.html%}
+{% include_relative verovio_inline.html %}
 
 
 
