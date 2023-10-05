@@ -21,13 +21,12 @@ Apart from that, popular music soundtracks could be considered as a sustainable 
 ** Music Preservation: access, present Talk about collected and gathering. Presented, described, and analysed
 
 The theme for my MCA project is Studio Ghibli music collection composed by Joe Hisaishi, and the chosen music pieces are movie theme songs from Hayao Miyazaki’s films. The theme of Studio Ghibli music also relates to the idea of movie theme songs, which I want to highlight that movie theme songs could be a reusable and reliable source for derivative creations (i.e. video production, medley, artwork, script-writing, etc) if the sources are royalty-free. Their music data are presented in forms like Ghibli movies soundtracks, musical scores, audio/video recordings, official live performances, covers, secondary video production.
-
-\
+/
 
 ## Week 2 Lab
 
 Here is an original PDF downloaded from MuseScore:
-[embed](http://siusei.github.io/MCA-2023/data/A Town with an Ocean View - Joe Hisaishi.pdf)[/embed]
+[embed](http://siusei.github.io/MCA-2023/data/OG_A_Town_with_an_Ocean_view.pdf)[/embed]
 
 
 Here is the transcribed MusicXML file using MuseScore:
