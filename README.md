@@ -31,6 +31,16 @@ Here is an original PDF downloaded from MuseScore:
 Here is the transcribed MusicXML file using MuseScore:
 
 
+unable to put notes into correct beat:
+- Before
+    - Duplicating bars, bars 70, 71
+    - Not recognising some changes in beat sign
+    - Not recognising some dots articulation.
+    - Missing speed sign “rit…”
+- After correction to bar 80
+    - Bar 78 - wrong beats for rest sign, wrong notes linking together (supposed to be separated)
+    - Bar 62, 65, 66 - same place, wrong beats
+
 
 ## Week 3 Lab
 {% include_relative verovio_inline.html %}
