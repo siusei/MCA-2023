@@ -26,8 +26,7 @@ The theme for my MCA project is Studio Ghibli music collection composed by Joe H
 ## Week 2 Lab
 
 Here is an original PDF downloaded from MuseScore:
-[embed](http://siusei.github.io/MCA-2023/data/OG_A_Town_with_an_Ocean_view.pdf)[/embed]
-
+<a href="/data/OG_A_Town_with_an_Ocean_view.pdf" class="image fit"><img src="/data/OG_A_Town_with_an_Ocean_view.pdf" alt="" type="application/pdf"></a>
 
 Here is the transcribed MusicXML file using MuseScore:
 
