@@ -27,6 +27,7 @@ The theme for my MCA project is Studio Ghibli music collection composed by Joe H
 ## Week 2 Lab
 
 ![A Town with an Ocean View - Joe Hisaishi](/data/A Town with an Ocean View - Joe Hisaishi.pdf)
+Format: ![A Town with an Ocean View Score](/data/A Town with an Ocean View - Joe Hisaishi.pdf)
 
 
 ## Week 3 Lab
