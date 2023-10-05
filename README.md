@@ -1,4 +1,4 @@
-# Music Curation and Analytics 2023 Lab Work
+  # Music Curation and Analytics 2023 Lab Work
 ## Week 1 Lab
 
 \
@@ -23,7 +23,7 @@ Apart from that, popular music soundtracks could be considered as a sustainable 
 ## Week 2 Lab
 
 ## Week 3 Lab
-{% include_relative Verovio_inline.html%}
+{% include_relative verovio_inline.html%}
 
 
 
