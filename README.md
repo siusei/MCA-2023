@@ -27,7 +27,7 @@ The theme for my MCA project is Studio Ghibli music collection composed by Joe H
 ## Week 2 Lab
 
 Here is an original PDF downloaded from MuseScore:
-[A Town with an Ocean View - Joe Hisaishi](http://siusei.github.io/MCA-2023/data/A Town with an Ocean View - Joe Hisaishi.pdf.com)
+[A Town with an Ocean View - Joe Hisaishi](http://siusei.github.io/MCA-2023/data/A Town with an Ocean View - Joe Hisaishi.pdf)
 
 
 Here is the transcribed MusicXML file using MuseScore:
