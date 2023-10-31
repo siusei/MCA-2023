@@ -66,4 +66,6 @@ My audience:
 Information added in the MEI document
 - Title, composer, date of release, license and perform medium.
 
+Here is the link to the MEI file updated with the metadata above:
+<a href="/data/TWAOV_Meta.mei" class="image fit"><img src="/data/TWAOV_Meta.mei" alt="Histogram" type="application/mei">A Town with an Ocean view updated MEI document</a>
 
