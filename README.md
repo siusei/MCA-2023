@@ -46,6 +46,7 @@ unable to put notes into correct beat:
 ## Week 3 Lab
 {% include_relative verovio_inline.html %}
 
+## Week 4 Lab
 
-
+Analysing the MEI file with Music21
 
