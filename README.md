@@ -47,6 +47,23 @@ unable to put notes into correct beat:
 {% include_relative verovio_inline.html %}
 
 ## Week 4 Lab
+### Generating piano roll and pitch histogram with Music21
 
-Analysing the MEI file with Music21
+- Piano Roll
+<a href="/data/Piano_roll.png" class="image fit"><img src="/data/Piano_roll.png" alt="Piano Roll" type="application/png"></a>
+
+- Scatter Plot of Pitches
+<a href="/data/Scatter_plot.png" class="image fit"><img src="/data/Scatter_plot.png" alt="Scatter Plot" type="application/png"></a>
+
+- Histogram
+<a href="/data/Histogram.png" class="image fit"><img src="/data/Histogram.png" alt="Histogram" type="application/png"></a>
+
+## Week 5 Lab
+Embedding Metadata to my MEI document -
+
+My audience:
+- Fan of Studio Ghibli and classical music, movier lover and pianist.
+Information added in the MEI document
+- Title, composer, date of release, license and perform medium.
+
 
