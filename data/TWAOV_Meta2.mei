@@ -5,21 +5,21 @@
    <meiHead>
         <fileDesc>
         <titleStmt>
-            <title auth.uri="https://musicbrainz.org/recording/278602df-2e1b-4219-9828-e5ef76ebeb1c" auth="MusicBrainz" xml:id="m-8"> A Town with an Ocean View </title>
+            <title authURI="https://musicbrainz.org/recording/278602df-2e1b-4219-9828-e5ef76ebeb1c" auth="MusicBrainz" xml:id="m-8"> A Town with an Ocean View </title>
             <respStmt>
-		<persName xml:id="composer_title" role="composer" authURI="http://viaf.org/viaf/114810218" auth="VIAF">Joe Hisaishi</persName>
-		<persName xml:id="encoder" role="encoder">Grace, Man Wai Cheng</persName>
+		<persName role="composer" xml:id="composer_title" authURI="http://viaf.org/viaf/114810218" auth="VIAF">Joe Hisaishi</persName>
+		<persName role="encoder" xml:id="encoder">Grace, Man Wai Cheng</persName>
             </respStmt>
          </titleStmt>
          <pubStmt>
 	 	<address>
-               		<addrLine>150-0002<geogName codedval="9122373" auth.uri="http://vocab.getty.edu/page/tgn/" auth="TGN">Shibuya</geogName></addrLine>
-              		<addrLine><geogName codedval="7004472" auth.uri="http://vocab.getty.edu/page/tgn/" auth="TGN">Tokyo</geogName></addrLine>
-              		<addrLine><geogName codedval="2059221" auth.uri="http://vocab.getty.edu/page/tgn/" auth="TGN">Japan</geogName></addrLine>
+               		<addrLine>150-0002<geogName codedval="9122373" authURI="http://vocab.getty.edu/page/tgn/" auth="TGN">Shibuya</geogName></addrLine>
+              		<addrLine><geogName codedval="7004472" authURI="http://vocab.getty.edu/page/tgn/" auth="TGN">Tokyo</geogName></addrLine>
+              		<addrLine><geogName codedval="2059221" authURI="http://vocab.getty.edu/page/tgn/" auth="TGN">Japan</geogName></addrLine>
          	</address>
          	<date isodate="2023" type="encoding-date">2023</date>
             	<availability>
-            		<useRestrict auth.uri="https://creativecommons.org/licenses/by-nc-sa/4.0/" auth="Creative Commons">
+            		<useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/" auth="Creative Commons">
                 This file is protected under Creative Commons Attribution 4.0 International, CC BY-NC-SA
                 The source used is to encode metadata in an MEI project for Music Curation and Analytics.
                 The project outcome is not designed for profiting nor commercial purposes.
@@ -38,7 +38,7 @@
       </encodingDesc>
       <workList>
 	     <title>A Town with an Ocean View</title>
-	     <creation xml:id="released_date" auth.uri="https://musicbrainz.org/release-group/f4206679-7c54-3e04-b573-453fdabc17de" auth="Music Brainz">
+	     <creation xml:id="released_date" authURI="https://musicbrainz.org/release-group/f4206679-7c54-3e04-b573-453fdabc17de" auth="Music Brainz">
 		<date>1989</date>
 		<geogName>Tokyo, Japan</geogName>
 	     </creation>
@@ -52,7 +52,7 @@
              </perfMedium>
              <classification>
                 <genre class="#header.ALLMusic"> Classical Stage and Screen Music </genre>
-                <classCode xml:id="header.ALLMusic" auth="ALLMusic" auth.uri="https://www.allmusic.com/style/ma0000004432"/>
+                <classCode xml:id="header.ALLMusic" auth="ALLMusic" authURI="https://www.allmusic.com/style/ma0000004432"/>
              </classification>
       </workList>
    </meiHead>
