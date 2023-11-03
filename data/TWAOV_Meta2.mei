@@ -6,7 +6,7 @@
           <fileDesc xml:id="fdd650g">
          <titleStmt xml:id="t4l117g">
             <title auth.uri="https://musicbrainz.org/recording/278602df-2e1b-4219-9828-e5ef76ebeb1c" auth="MusicBrainz" xml:id="m-8"> A Town with an Ocean View </title>
-	    <composer startdate="1950" auth.uri="http://viaf.org/viaf/114810218" auth="VIAF" xml:id="workcreator">Joe Hisaishi</composer>
+	    <composer auth.uri="http://viaf.org/viaf/114810218" auth="VIAF" xml:id="workcreator">Joe Hisaishi</composer>
             <respStmt>
 		<resp>Encoded by</resp>
 		<name>Grace, Man Wai Cheng</name>
@@ -18,7 +18,7 @@
               		 <addrLine><geogName codedval="7004472" auth.uri="http://vocab.getty.edu/page/tgn/" auth="TGN">Tokyo</geogName></addrLine>
               		 <addrLine><geogName codedval="2059221" auth.uri="http://vocab.getty.edu/page/tgn/" auth="TGN">Japan</geogName></addrLine>
          	</address>
-         	<date isodate="2023" type="encoding-date">2023</date>
+         	
             	<availability>
             	<useRestrict auth.uri="https://creativecommons.org/licenses/by-nc-sa/4.0/" auth="Creative Commons">
                 This file is protected under Creative Commons Attribution 4.0 International, CC BY-NC-SA
