@@ -8,7 +8,7 @@
             <title auth.uri="https://musicbrainz.org/recording/278602df-2e1b-4219-9828-e5ef76ebeb1c" auth="MusicBrainz" xml:id="m-8"> A Town with an Ocean View </title>
 ///	    <composer auth.uri="http://viaf.org/viaf/114810218" auth="VIAF" xml:id="composer_title">Joe Hisaishi</composer>
             <respStmt>
-		<resp>Encoded by:</resp>
+		<resp>Encoded by </resp>
 		<name>Grace, Man Wai Cheng</name>
             </respStmt>
          </titleStmt>
@@ -52,11 +52,7 @@
 		</perfResList>
              </perfMedium>
              <classification>
-                 <termList>
-                    <term class="#header.LCSH">Piano music</term>
-                    <term class="#header.ALLMusic">Classical stage and screen music</term>
-                </termList>
-                <classCode xml:id="header.LCSH" auth="LCSH" auth.uri="http://id.loc.gov/authorities/subjects/sh85101782"/>
+                 <genre class="#header.ALLMusic">Classical stage and screen music</genre>
                 <classCode xml:id="header.ALLMusic" auth="ALLMusic" auth.uri="https://www.allmusic.com/style/ma0000004432"/>
              </classification>
       </workList>
