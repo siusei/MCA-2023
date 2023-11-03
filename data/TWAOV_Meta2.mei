@@ -7,8 +7,8 @@
         <titleStmt>
             <title auth.uri="https://musicbrainz.org/recording/278602df-2e1b-4219-9828-e5ef76ebeb1c" auth="MusicBrainz" xml:id="m-8"> A Town with an Ocean View </title>
             <respStmt>
-		<persName xml:id="composer_title" role="composer" auth.uri="http://viaf.org/viaf/114810218" auth="VIAF">Joe Hisaishi</persName>
-		<persName xml:id="encoder" role="encoder">Grace, Man Wai Cheng</persName>
+		<composer xml:id="composer_title" auth.uri="http://viaf.org/viaf/114810218" auth="VIAF">Joe Hisaishi</composer>
+		<encoder xml:id="encoder" role="encoder">Grace, Man Wai Cheng</encoder>
             </respStmt>
          </titleStmt>
          <pubStmt>
