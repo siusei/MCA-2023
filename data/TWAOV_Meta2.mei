@@ -6,9 +6,10 @@
           <fileDesc xml:id="fdd650g">
          <titleStmt xml:id="t4l117g">
             <title auth.uri="https://musicbrainz.org/recording/278602df-2e1b-4219-9828-e5ef76ebeb1c" auth="MusicBrainz" xml:id="m-8"> A Town with an Ocean View </title>
+	    <persName role="composer" startdate="1950" auth.uri="http://viaf.org/viaf/114810218" auth="VIAF" xml:id="workcreator">Joe Hisaishi</persName>
             <respStmt>
-                <persName role="composer" startdate="1950" auth.uri="http://viaf.org/viaf/114810218" auth="VIAF" xml:id="workcreator">Joe Hisaishi</persName>
-		<persName role="encoded by" xml:id="workcreator">Grace, Man Wai Cheng</persName>
+		<resp>Encoded by</resp>
+		<name>Grace, Man Wai Cheng</name>
             </respStmt>
          </titleStmt>
          <pubStmt xml:id="pcuq7yy">
