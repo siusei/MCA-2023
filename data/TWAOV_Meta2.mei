@@ -2,33 +2,33 @@
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0+basic">
-   <meiHead xml:id="m17glthj">
-          <fileDesc xml:id="fdd650g">
-         <titleStmt xml:id="t4l117g">
+   <meiHead>
+        <fileDesc>
+        <titleStmt>
             <title auth.uri="https://musicbrainz.org/recording/278602df-2e1b-4219-9828-e5ef76ebeb1c" auth="MusicBrainz" xml:id="m-8"> A Town with an Ocean View </title>
             <respStmt>
-		<persName role="composer" auth.uri="http://viaf.org/viaf/114810218" auth="VIAF" xml:id="composer_title">Joe Hisaishi</persName>
-		<persName role="encoder" xml:id="encoder">Grace, Man Wai Cheng</persName>
+		<persName xml:id="composer_title" role="composer" auth.uri="http://viaf.org/viaf/114810218" auth="VIAF">Joe Hisaishi</persName>
+		<persName xml:id="encoder" role="encoder">Grace, Man Wai Cheng</persName>
             </respStmt>
          </titleStmt>
-         <pubStmt xml:id="pcuq7yy">
+         <pubStmt>
 	 	<address>
                		<addrLine>150-0002<geogName codedval="9122373" auth.uri="http://vocab.getty.edu/page/tgn/" auth="TGN">Shibuya</geogName></addrLine>
-              		 <addrLine><geogName codedval="7004472" auth.uri="http://vocab.getty.edu/page/tgn/" auth="TGN">Tokyo</geogName></addrLine>
-              		 <addrLine><geogName codedval="2059221" auth.uri="http://vocab.getty.edu/page/tgn/" auth="TGN">Japan</geogName></addrLine>
+              		<addrLine><geogName codedval="7004472" auth.uri="http://vocab.getty.edu/page/tgn/" auth="TGN">Tokyo</geogName></addrLine>
+              		<addrLine><geogName codedval="2059221" auth.uri="http://vocab.getty.edu/page/tgn/" auth="TGN">Japan</geogName></addrLine>
          	</address>
          	<date isodate="2023" type="encoding-date">2023</date>
             	<availability>
-            	<useRestrict auth.uri="https://creativecommons.org/licenses/by-nc-sa/4.0/" auth="Creative Commons">
+            		<useRestrict auth.uri="https://creativecommons.org/licenses/by-nc-sa/4.0/" auth="Creative Commons">
                 This file is protected under Creative Commons Attribution 4.0 International, CC BY-NC-SA
                 The source used is to encode metadata in an MEI project for Music Curation and Analytics.
                 The project outcome is not designed for profiting nor commercial purposes.
                 But, others are able to modify or build up on additional metadata of this piece.
-             	</useRestrict>
+             		</useRestrict>
             	</availability>
-        	</pubStmt>
+         </pubStmt>
      	 </fileDesc>
-      <encodingDesc xml:id="eeh1osz">
+      <encodingDesc>
          <appInfo xml:id="aoto51m">
             <application xml:id="ac7avtd" isodate="2023-10-24T15:20:54" version="4.1.0-dev-b519480">
                <name xml:id="nloeqsd">Verovio</name>
