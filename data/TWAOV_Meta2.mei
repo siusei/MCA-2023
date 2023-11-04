@@ -51,8 +51,8 @@
 		</perfResList>
              </perfMedium>
              <classification>
-                <genre class="#header.ALLMusic"> Classical Stage and Screen Music </genre>
-                <classCode xml:id="header.ALLMusic" auth="ALLMusic" authURI="https://www.allmusic.com/style/ma0000004432"/>
+                <genre> Classical Stage and Screen Music </genre> //class="#header.ALLMusic"//
+                <classCode auth="ALLMusic" authURI="https://www.allmusic.com/style/ma0000004432"/> //xml:id="header.ALLMusic"//
              </classification>
       </workList>
    </meiHead>
