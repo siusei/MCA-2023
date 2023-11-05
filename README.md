@@ -63,7 +63,10 @@ unable to put notes into correct beat:
 {% include_relative verovio_inline.html %}
 
 ## Week 4 Lab
+{% include_relative Labwork/week4.html %}
+
 ### Generating piano roll and pitch histogram with Music21
+
 
 - Piano Roll
 <a href="/data/Piano_roll.png" class="image fit"><img src="/data/Piano_roll.png" alt="Piano Roll" type="application/png"></a>
