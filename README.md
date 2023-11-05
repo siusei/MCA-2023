@@ -30,6 +30,7 @@ Descriptive data includes this piece's song title, composer, performing artist, 
 \
 **2.Notated data**
 Notated data are the visual music score of the piece arranged by Joe Hisaishi or other arrangers who want to recreate new versions with different difficulty, performed medium, music genre, etc. Since I cannot find the official music score of the piece, I found this sheet music on the digital sheet music platform, MuseScore by filtering results with song title, composer, collection, instrument and difficulty. The search results appear an overwhelming number of modifyed versions of this single piece. Lots of them are almost identical to the original version and they also presents with solo, duets and orchestra versions.
+
 \
 **3.Acoustic data**
 Acoustic data are audio track of the piece and it can be found on Youtube and the music streaming plarforms mentioned above in the forms of audio and video. The official soundtrack may also be a reusable and reliable souce for derivation creations including covers, medley, video production, improvisation and other art related production if this source is royalty-free.
