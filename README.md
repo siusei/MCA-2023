@@ -75,7 +75,7 @@ unable to put notes into correct beat:
 **3.Histogram**
 <a href="/data/Histogram.png" class="image fit"><img src="data/Histogram.png" alt="Histogram" type="application/png"></a>
 \
-[Here is the link to my Week 4 Task if the image above is not visible](siuseriLabwork/week4.html)
+[Here is the link to my Week 4 Task if the images above are not visible]([siuseriLabwork/week4.html](https://github.com/siusei/MCA-2023/tree/master#week-4-lab))
 
 ## Week 5 Lab
 Embedding Metadata to my MEI document -
