@@ -25,14 +25,17 @@ The music metadata are presented in forms like Ghibli movies soundtracks, musica
 
 \
 **1.Descriptive data**
+\
 Descriptive data includes this piece's song title, composer, performing artist, music genre, released date, track duration, users' rating, etc. These metadata are presented on different music streaming platforms like Spotify, Soundcloud, YouTube Music, etc. and they categorise this music based on the track's music genre, collection and popularity to generate music recommendations according to audiences' preferences. With these metadata, it will also be easier for audiences to search for this exact music piece on the search bar. For instance, my chosen music piece is a movie soundtrack and is classified as a classical music genre, for audiences who are a fan of Studio Ghibli movie or modern classical music and are not sure about the song title, audience can find it simply by searching related information on either of the music platforms or search engine. Additional background information can also be found on Google with Joe Hisaishi's creative process or audiences' music analysis of the piece.
 
 \
 **2.Notated data**
+\
 Notated data are the visual music score of the piece arranged by Joe Hisaishi or other arrangers who want to recreate new versions with different difficulty, performed medium, music genre, etc. Since I cannot find the official music score of the piece, I found this sheet music on the digital sheet music platform, MuseScore by filtering results with song title, composer, collection, instrument and difficulty. The search results appear an overwhelming number of modifyed versions of this single piece. Lots of them are almost identical to the original version and they also presents with solo, duets and orchestra versions.
 
 \
 **3.Acoustic data**
+\
 Acoustic data are audio track of the piece and it can be found on Youtube and the music streaming plarforms mentioned above in the forms of audio and video. The official soundtrack may also be a reusable and reliable souce for derivation creations including covers, medley, video production, improvisation and other art related production if this source is royalty-free.
 
 
