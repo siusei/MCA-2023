@@ -4,7 +4,7 @@
 **Theme:** Studio Ghibli Music: Stage and Screen Music
 
 The theme for my MCA project dataset is Studio Ghibli music collection composed by Joe Hisaishi, and the chosen music piece is a movie theme song from *Kiki's Delivery Service* by Hayao Miyazaki. Joe Hisaishi, a japanese composer, is known as the main music composer for Studio Ghibli and most of them are classical orchestrial music. His most remarkable collections are the pieces written for the animated movies: "One Spirited Away," "Sky Castle," "Howl's Moving Castle," "My Neighbour Totoro," etc. 
-\
+
 
 **Chosen source:** "A Town with an Ocean View"
 **Composer:** Joe Hisaishi
@@ -65,17 +65,17 @@ unable to put notes into correct beat:
 ## Week 4 Lab
 {% include_relative Labwork/week4/week4.html %}
 
+
 ### Generating piano roll and pitch histogram with Music21
+\
+**1.Piano Roll**
+<a href="/data/Piano_roll.png" class="image fit"><img src="https://github.com/siusei/MCA-2023/blob/master/data/Piano_roll.png" alt="Piano Roll" type="application/png"></a>
 
+**2.Scatter Plot of Pitches**
+<a href="/data/Scatter_plot.png" class="image fit"><img src="https://github.com/siusei/MCA-2023/blob/master/data/Scatter_plot.png" alt="Scatter Plot" type="application/png"></a>
 
-- Piano Roll
-<a href="/data/Piano_roll.png" class="image fit"><img src="/data/Piano_roll.png" alt="Piano Roll" type="application/png"></a>
-
-- Scatter Plot of Pitches
-<a href="/data/Scatter_plot.png" class="image fit"><img src="/data/Scatter_plot.png" alt="Scatter Plot" type="application/png"></a>
-
-- Histogram
-<a href="/data/Histogram.png" class="image fit"><img src="/data/Histogram.png" alt="Histogram" type="application/png"></a>
+**3.Histogram**
+<a href="/data/Histogram.png" class="image fit"><img src="https://github.com/siusei/MCA-2023/blob/master/data/Histogram.png" alt="Histogram" type="application/png"></a>
 
 ## Week 5 Lab
 Embedding Metadata to my MEI document -
