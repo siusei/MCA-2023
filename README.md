@@ -3,13 +3,14 @@
 \
 **Theme:** Studio Ghibli Music: Stage and Screen Music
 
-The theme for my MCA project dataset is Studio Ghibli music collection composed by Joe Hisaishi, and the chosen music piece is a movie theme song from <i>The Kiki's Delivery Service</i> by Hayao Miyazaki. Joe Hisaishi, a japanese composer, is known as the main music composer for Studio Ghibli and most of them are classical orchestrial music. His most remarkable collections are the pieces written for the animated movies: "One Spirited Away," "Sky Castle," "Howl's Moving Castle," "My Neighbour Totoro," etc. 
+The theme for my MCA project dataset is Studio Ghibli music collection composed by Joe Hisaishi, and the chosen music piece is a movie theme song from *Kiki's Delivery Service* by Hayao Miyazaki. Joe Hisaishi, a japanese composer, is known as the main music composer for Studio Ghibli and most of them are classical orchestrial music. His most remarkable collections are the pieces written for the animated movies: "One Spirited Away," "Sky Castle," "Howl's Moving Castle," "My Neighbour Totoro," etc. 
 \
-**Chosen source:** "A Town with an Ocean View" by Joe Hisaishi 
-Composer: Joe Hisaishi
 
-Musical scores: Attached on the files above\
-Audio recordings: [Audio from YouTube](https://www.youtube.com/watch?v=XavziZ-C6qY)
+**Chosen source:** "A Town with an Ocean View"
+**Composer:** Joe Hisaishi
+
+**Musical scores:** Attached on the files above
+**Audio recordings:** [Audio from YouTube](https://www.youtube.com/watch?v=XavziZ-C6qY)
 
 
 **Challenges to working with music and music-related data**
@@ -18,9 +19,19 @@ The problem to working with the music-related data is that at times it is tough 
 
 Taking my music score searching journey as an example. In my search for this piece, “A Town with an Ocean View” by Joe Hisaishi, on Musescore, it was challenging for me to identify whether or not there is an official score for this piece since there are overwhelming versions of this piece published by other users. Notated data and Acoustic data differs depend on how the score arrangers modify or mimic the original music piece. It took me some time to listen and compare which score sounds the most identical to the official piece. Furthermore, for other music score downloading platforms, some may require fee to purchase them or monthly fee before downloading music pieces. The financial barrier is also a factor that prevents users from accessing music data.
 
-** Music Preservation: access, present Talk about collected and gathering. Presented, described, and analysed
+**Music Preservation of this Piece** 
+*How data is presented, described, and analysed*
 
-The theme for my MCA project is Studio Ghibli music collection composed by Joe Hisaishi, and the chosen music pieces are movie theme songs from Hayao Miyazaki’s films. The theme of Studio Ghibli music also relates to the idea of movie theme songs, which I want to highlight that movie theme songs could be a reusable and reliable source for derivative creations (i.e. video production, medley, artwork, script-writing, etc) if the sources are royalty-free. Their music data are presented in forms like Ghibli movies soundtracks, musical scores, audio/video recordings, official live performances, covers, secondary video production.
+The music metadata are presented in forms like Ghibli movies soundtracks, musical scores, audio/video recordings, official live performances, covers, secondary video production. 
+
+1.Descriptive data
+Descriptive data includes this piece's song title, composer, performing artist, music genre, released date, track duration, users' rating, etc. These metadata are presented on different music streaming platforms like Spotify, Soundcloud, YouTube Music, etc. and they categorise this music based on the track's music genre, collection and popularity to generate music recommendations according to audiences' preferences. With these metadata, it will also be easier for audiences to search for this exact music piece on the search bar. For instance, my chosen music piece is a movie soundtrack and is classified as a classical music genre, for audiences who are a fan of Studio Ghibli movie or modern classical music and are not sure about the song title, audience can find it simply by searching related information on either of the music platforms or search engine. Additional background information can also be found on Google with Joe Hisaishi's creative process or audiences' music analysis of the piece.
+
+2.Notated data
+Notated data are the visual music score of the piece arranged by Joe Hisaishi or other arrangers who want to recreate new versions with different difficulty, performed medium, music genre, etc. Since I cannot find the official music score of the piece, I found this sheet music on the digital sheet music platform, MuseScore by filtering results with song title, composer, collection, instrument and difficulty. The search results appear an overwhelming number of modifyed versions of this single piece. Lots of them are almost identical to the original version and they also presents with solo, duets and orchestra versions.
+
+3.Acoustic data
+Acoustic data are audio track of the piece and it can be found on Youtube and the music streaming plarforms mentioned above in the forms of audio and video. The official soundtrack may also be a reusable and reliable souce for derivation creations including covers, medley, video production, improvisation and other art related production if this source is royalty-free.
 /
 
 ## Week 2 Lab
