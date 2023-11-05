@@ -68,12 +68,15 @@ unable to put notes into correct beat:
 \
 **1.Piano Roll**
 <a href="/data/Piano_roll.png" class="image fit"><img src="https://github.com/siusei/MCA-2023/blob/master/data/Piano_roll.png" alt="Piano Roll" type="application/png"></a>
+<img class="image fit" src="https://github.com/siusei/MCA-2023/blob/master/data/Piano_roll.png" alt="Piano Roll">
 
 **2.Scatter Plot of Pitches**
 <a href="/data/Scatter_plot.png" class="image fit"><img src="https://github.com/siusei/MCA-2023/blob/master/data/Scatter_plot.png" alt="Scatter Plot" type="application/png"></a>
+<img class="image fit" src="https://github.com/siusei/MCA-2023/blob/master/data/Scatter_plot.png" alt="Scatter Plot">
 
 **3.Histogram**
 <a href="/data/Histogram.png" class="image fit"><img src="https://github.com/siusei/MCA-2023/blob/master/data/Histogram.png" alt="Histogram" type="application/png"></a>
+<img class="image fit" src="https://github.com/siusei/MCA-2023/blob/master/data/Histogram.png" alt="Histogram">
 \
 {% include_relative Labwork/week4/week4.html %}
 
