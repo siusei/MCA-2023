@@ -33,7 +33,7 @@ Notated data are the visual music score of the piece arranged by Joe Hisaishi or
 \
 **3.Acoustic data**
 Acoustic data are audio track of the piece and it can be found on Youtube and the music streaming plarforms mentioned above in the forms of audio and video. The official soundtrack may also be a reusable and reliable souce for derivation creations including covers, medley, video production, improvisation and other art related production if this source is royalty-free.
-\
+
 
 ## Week 2 Lab
 
