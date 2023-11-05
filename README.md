@@ -9,8 +9,8 @@ The theme for my MCA project dataset is Studio Ghibli music collection composed 
 **Chosen source:** "A Town with an Ocean View"
 **Composer:** Joe Hisaishi
 
-**Musical scores:** Attached on the files above
-**Audio recordings:** [Audio from YouTube](https://www.youtube.com/watch?v=XavziZ-C6qY)
+**Musical Scores:** [Please view it here](https://github.com/siusei/MCA-2023/blob/master/data/OG_A_Town_with_an_Ocean_view.pdf)
+**Audio Recordings:** [Audio from YouTube](https://www.youtube.com/watch?v=XavziZ-C6qY)
 
 \
 **Challenges to working with music and music-related data**
@@ -43,7 +43,7 @@ Acoustic data are audio track of the piece and it can be found on Youtube and th
 
 Here is an original PDF downloaded from MuseScore:
 <a href="data/OG_A_Town_with_an_Ocean_view.pdf" class="image fit"><img src="/data/OG_A_Town_with_an_Ocean_view.pdf" alt="" type="application/pdf"></a>
-[A Town with an Ocean View PDF](data/OG_A_Town_with_an_Ocean_view.pdf)
+[A Town with an Ocean View PDF](https://github.com/siusei/MCA-2023/blob/master/data/OG_A_Town_with_an_Ocean_view.pdf)
 
 Here is the transcribed MusicXML file using MuseScore:
 
