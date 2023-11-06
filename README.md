@@ -41,7 +41,7 @@ Acoustic data are audio track of the piece and it can be found on Youtube and th
 
 ## Week 2 Lab
 \
-This week I transcribed my chosen piece, *A Town with and Ocean View* with MuseScore and observed the accuracy of the MuseScore programme when transcribing a PDF file to a computer-readable XMLMusic file. 
+This week I transcribed my chosen piece, *A Town with and Ocean View* with MuseScore and observed the accuracy of the MuseScore programme when transcribing a PDF file to a computer-readable MusicXML file. 
 
 Here is an original PDF downloaded from MuseScore:
 \
