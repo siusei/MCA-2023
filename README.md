@@ -40,6 +40,8 @@ Acoustic data are audio track of the piece and it can be found on Youtube and th
 
 
 ## Week 2 Lab
+\
+This week I transcribed my chosen piece, *A Town with and Ocean View* with MuseScore and observed the accuracy of the MuseScore programme when transcribing a PDF file to a computer-readable XMLMusic file. 
 
 Here is an original PDF downloaded from MuseScore:
 \
@@ -54,19 +56,20 @@ Here is the transcribed MusicXML file using MuseScore:
 [Transcribed PDF file to view difference](https://github.com/siusei/MCA-2023/blob/master/data/PDF_A_Town_with_an_Ocean_View_Transcribed.pdf)
 <a href="data/PDF_A_Town_with_an_Ocean_View_Transcribed.pdf" class="image fit"><img src="/data/PDF_A_Town_with_an_Ocean_View_Transcribed.pdf" alt="" type="application/pdf"></a>
 
+*From my observation*
+The notation software of MuseScore can identify most of the music elements correctly. For instance, the majority of note pattern, beat sign, chords and music ornaments when the notes patterns are clear and repetitive.
 
-unable to put notes into correct beat:
-- Before
-    - Duplicating bars, bars 70, 71
-    - Not recognising some changes in beat sign
+However, sometimes, the software would mistakenly interpret bars with wrong beats and it does not recognise some elements like articulation sign and change of beat sign. 
+Here are the specific errors spoted during observation:
+    - Missing speed sign “rit…” and "93 bpm" in the first line
+    - Duplicating bars in bars 70 and 71
+    - Not recognising some changes in beat sign between bars 49 to 53
     - Not recognising some dots articulation.
-    - Missing speed sign “rit…”
-- After correction to bar 80
-    - Bar 78 - wrong beats for rest sign, wrong notes linking together (supposed to be separated)
-    - Bar 62, 65, 66 - same place, wrong beats
+    - Interpreted wrong beats and rest signs in Bar 62, 65, 66, and 78. 
 
 
 ## Week 3 Lab
+This week I 
 {% include_relative verovio_inline.html %}
 
 ## Week 4 Lab
