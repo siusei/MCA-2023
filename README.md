@@ -18,11 +18,11 @@ The theme for my MCA project dataset is Studio Ghibli music collection composed 
 The problem to working with the music-related data is that at times it is tough to find the original source, specially when it is a popular piece. When I was finding piano or guitar scores, they often come in different versions where musicians tired to recreate music scores for others to be able to play the same piece of music if there isn’t an official versions yet. However, the recreated version, most of the time, does not include all musical elements compared to the original piece. Sometimes, even when there is an original music score, the rewrote versions and versions for different performers may affect searching results and increase difficulty to search for an official music score; this factor decreases accessibility to the visual musical data and it is time-consuming for users in need.
 
 Taking my music score searching journey as an example. In my search for this piece, “A Town with an Ocean View” by Joe Hisaishi, on Musescore, it was challenging for me to identify whether or not there is an official score for this piece since there are overwhelming versions of this piece published by other users. Notated data and Acoustic data differs depend on how the score arrangers modify or mimic the original music piece. It took me some time to listen and compare which score sounds the most identical to the official piece. Furthermore, for other music score downloading platforms, some may require fee to purchase them or monthly fee before downloading music pieces. The financial barrier is also a factor that prevents users from accessing music data.
+
 \
 **Music Preservation of this Piece** 
 *How data is presented, described, and analysed*
 The music metadata are presented in forms like Ghibli movies soundtracks, musical scores, audio/video recordings, official live performances, covers, secondary video production. 
-
 \
 **1.Descriptive data**
 \
