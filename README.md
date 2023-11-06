@@ -47,7 +47,9 @@ Here is an original PDF downloaded from MuseScore:
 
 Here is the transcribed MusicXML file using MuseScore:
 [MusicXML file of the piece](https://github.com/siusei/MCA-2023/blob/master/data/A_Town_with_an_Ocean_View_Transcribed_my.musicxml)
+\
 [Transcribed PDF file to view difference](https://github.com/siusei/MCA-2023/blob/master/data/PDF_A_Town_with_an_Ocean_View_Transcribed.pdf)
+<a href="data/PDF_A_Town_with_an_Ocean_View_Transcribed.pdf" class="image fit"><img src="/data/PDF_A_Town_with_an_Ocean_View_Transcribed.pdf" alt="" type="application/pdf"></a>
 
 
 unable to put notes into correct beat:
