@@ -69,7 +69,7 @@ Here are the specific errors spoted during observation:
 
 
 ## Week 3 Lab
-This week I 
+
 {% include_relative verovio_inline.html %}
 
 ## Week 4 Lab
