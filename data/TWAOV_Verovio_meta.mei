@@ -2,24 +2,65 @@
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
-   <meiHead xml:id="mbuxba">
-      <fileDesc xml:id="fwa4m6l">
-         <titleStmt xml:id="t1jf2bp2">
-            <title />
-            <respStmt />
+   <meiHead>
+        <fileDesc>
+        
+         <titleStmt>
+            <title authURI="https://musicbrainz.org/recording/278602df-2e1b-4219-9828-e5ef76ebeb1c" auth="Music Brainz" xml:id="m-8"> A Town with an Ocean View </title>
+            <respStmt>
+//xml:id="composer title"//		<persName role="composer" authURI="http://viaf.org/viaf/114810218" auth="VIAF">Joe Hisaishi</persName>
+//xml:id="encoder"//		<persName role="encoder">Grace, Man Wai Cheng</persName>
+            </respStmt>
          </titleStmt>
-         <pubStmt xml:id="p187dvbe">
-            <date isodate="2023-11-07" type="encoding-date">2023-11-07</date>
+         <pubStmt>
+	 	
+         <address>
+               	<addrLine>150-0002<geogName codedval="9122373" authURI="http://vocab.getty.edu/page/tgn/" auth="TGN">Shibuya</geogName></addrLine>
+            		<addrLine><geogName codedval="7004472" authURI="http://vocab.getty.edu/page/tgn/" auth="TGN">Tokyo</geogName></addrLine>
+             		<addrLine><geogName codedval="2059221" authURI="http://vocab.getty.edu/page/tgn/" auth="TGN">Japan</geogName></addrLine>
+         </address>
+         <date isodate="2023" type="encoding-date">2023</date>
+         <availability>
+         <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/" auth="Creative Commons">
+                This file is protected under Creative Commons Attribution 4.0 International, CC BY-NC-SA
+                The source used is to encode metadata in an MEI project for Music Curation and Analytics.
+                The project outcome is not designed for profiting nor commercial purposes.
+                But, others are able to modify or build up on additional metadata of this piece.
+         </useRestrict>
+         </availability>
          </pubStmt>
+     	 
       </fileDesc>
-      <encodingDesc xml:id="e1b7va9t">
-         <appInfo xml:id="a1mox0uk">
-            <application xml:id="a8psfh2" isodate="2023-11-07T13:46:38" version="4.1.0-dev-938ab77">
-               <name xml:id="n1z0l8km">Verovio</name>
-               <p xml:id="p13ula8d">Transcoded from MusicXML</p>
+
+      <encodingDesc>
+
+         <appInfo xml:id="aoto51m">
+            <application xml:id="ac7avtd" isodate="2023-10-24T15:20:54" version="4.1.0-dev-b519480">
+               <name xml:id="nloeqsd">Verovio</name>
+               <p xml:id="p7nve8j">Transcoded from MusicXML</p>
             </application>
          </appInfo>
       </encodingDesc>
+
+      <workList>
+	     <title>A Town with an Ocean View</title>
+	     <creation xml:id="released_date" authURI="https://musicbrainz.org/release-group/f4206679-7c54-3e04-b573-453fdabc17de" auth="Music Brainz">
+         <date>1989</date>
+//xml:id="address"// 		<geogName>Tokyo, Japan</geogName>
+	     </creation>
+             <key pname="g" mode="major"/>
+             <tempo>Moderato</tempo>
+             <meter count="4" unit="4"/>
+             <perfMedium>
+		<perfResList>
+//xml:id="medium"// 		<perfRes>Piano</perfRes>
+		</perfResList>
+             </perfMedium>
+             <classification>
+                <genre> Classical Stage and Screen Music </genre>
+//class="#header.ALLMusic"//             <classCode auth="ALLMusic" authURI="https://www.allmusic.com/style/ma0000004432"/> //xml:id="header.ALLMusic"//
+             </classification>
+      </workList>
    </meiHead>
    <music>
       <body>
