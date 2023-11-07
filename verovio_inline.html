@@ -20,7 +20,7 @@
 
     const app = new Verovio.App(document.getElementById("app"), options);
 
-    fetch('data/mei_A_Town_with_an_Ocean_View_Transcribed.mei')
+    fetch('data/TWAOV_Trans_new.mei')
         .then((response) => response.text())
         .then(text => app.loadData(text));
 </script>
