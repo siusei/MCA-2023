@@ -8,8 +8,8 @@
          <titleStmt>
             <title authURI="https://musicbrainz.org/recording/278602df-2e1b-4219-9828-e5ef76ebeb1c" auth="Music Brainz" xml:id="m-8"> A Town with an Ocean View </title>
             <respStmt>
-//xml:id="composer title"//		<persName role="composer" authURI="http://viaf.org/viaf/114810218" auth="VIAF">Joe Hisaishi</persName>
-//xml:id="encoder"//		<persName role="encoder">Grace, Man Wai Cheng</persName>
+//xml:id="composer title"		<persName role="composer" authURI="http://viaf.org/viaf/114810218" auth="VIAF">Joe Hisaishi</persName>
+//xml:id="encoder"		<persName role="encoder">Grace, Man Wai Cheng</persName>
             </respStmt>
          </titleStmt>
          <pubStmt>
@@ -46,19 +46,19 @@
 	     <title>A Town with an Ocean View</title>
 	     <creation xml:id="released_date" authURI="https://musicbrainz.org/release-group/f4206679-7c54-3e04-b573-453fdabc17de" auth="Music Brainz">
          <date>1989</date>
-//xml:id="address"// 		<geogName>Tokyo, Japan</geogName>
+//xml:id="address" 		<geogName>Tokyo, Japan</geogName>
 	     </creation>
              <key pname="g" mode="major"/>
              <tempo>Moderato</tempo>
              <meter count="4" unit="4"/>
              <perfMedium>
 		<perfResList>
-//xml:id="medium"// 		<perfRes>Piano</perfRes>
+//xml:id="medium" 		<perfRes>Piano</perfRes>
 		</perfResList>
              </perfMedium>
              <classification>
                 <genre> Classical Stage and Screen Music </genre>
-//class="#header.ALLMusic"//             <classCode auth="ALLMusic" authURI="https://www.allmusic.com/style/ma0000004432"/> //xml:id="header.ALLMusic"//
+//class="#header.ALLMusic"             <classCode auth="ALLMusic" authURI="https://www.allmusic.com/style/ma0000004432"/> //xml:id="header.ALLMusic"
              </classification>
       </workList>
    </meiHead>
