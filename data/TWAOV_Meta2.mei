@@ -122,7 +122,9 @@
                         </layer>
                      </staff>
                      <dynam place="below" staff="1" tstamp="1.000000" val="80" vgrp="2000">mf</dynam>
-                     <arpeg plist="#c1mqamsm" />
+                     <tempo xml:id="t1l83bvw" place="above" staff="1" tstamp="1.000000" midi.bpm="98.000000" mm="98.000000" mm.unit="4">
+                        <rend xml:id="redn9d0" glyph.auth="smufl"></rend> = 98</tempo>
+		     <arpeg plist="#c1mqamsm" />
                   </measure>
                   <measure n="2">
                      <staff n="1">
