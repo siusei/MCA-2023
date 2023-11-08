@@ -19,11 +19,11 @@
           enableDocument: true // default is true
       }
       // A MusicXML file
-      var file = 'Labwork/Week7/TWAOV_meta.mei';
+      var file = 'TWAOV_meta.mei';
       // A MEI file
       //var file = 'https://www.verovio.org/editor/brahms.mei';
       const app = new Verovio.App(document.getElementById("app"), options);
-      fetch("Labwork/Week7/TWAOV_meta.mei")
+      fetch("TWAOV_meta.mei")
           .then(function(response) {
               return response.text();
           })
@@ -34,7 +34,7 @@
   <script>
     // Get, parse, and show TEI data
     var CETEIcean = new CETEI()
-    CETEIcean.getHTML5("Labwork/Week7/TWAOV_meta.mei", function(data) {
+    CETEIcean.getHTML5("TWAOV_meta.mei", function(data) {
       document.getElementById("TEI").appendChild(data)
     })
     // Get, parse and show MEI header data
@@ -44,7 +44,7 @@
         mei: "http://www.music-encoding.org/ns/mei"
       }
     })
-    CETEI4MEI.getHTML5("Labwork/Week7/TWAOV_meta.mei", function(data) {
+    CETEI4MEI.getHTML5("TWAOV_meta.mei", function(data) {
       // get header
       var meiHead = data.querySelector('mei-meiHead')
       document.getElementById("MEImeta").appendChild(meiHead)
@@ -58,7 +58,7 @@
         scale: 50,
         adjustPageHeight: true
     })
-    fetch("Labwork/Week7/TWAOV_meta.mei").then(function( response ) {
+    fetch("TWAOV_meta.mei").then(function( response ) {
         response.text().then(function( data ) {
           var svg = vrvToolkit.renderData(data, {})
           document.getElementById('MEI').innerHTML = svg
