@@ -92,6 +92,8 @@
                         </layer>
                      </staff>
                      <dynam xml:id="d1ccmtnh" place="below" staff="1" tstamp="1.000000" val="80" vgrp="2000">mf</dynam>
+                     <tempo xml:id="t1l83bvw" place="above" staff="1" tstamp="1.000000" midi.bpm="98.000000" mm="98.000000" mm.unit="4">
+                        <rend xml:id="redn9d0" glyph.auth="smufl"></rend> = 98</tempo>
                      <arpeg xml:id="a1rvvi0a" plist="#c14ccem3" />
                   </measure>
                   <measure xml:id="m1bxc5q1" n="2">
