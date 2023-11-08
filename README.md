@@ -96,5 +96,5 @@ Information added in the MEI document
 - Title, composer, date of release, license and perform medium.
 
 Here is the link to the MEI file updated with the metadata above:
-<a href="/data/TWAOV_Meta.mei">A Town with an Ocean view updated MEI document</a>
+<a href="/data/TWAOV_Verovio_meta.mei">A Town with an Ocean view updated MEI document</a>
 
