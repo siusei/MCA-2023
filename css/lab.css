@@ -1,1 +1,207 @@
+@charset "UTF-8";
+/* CSS Document */
 
+/* Font from Google */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@100&display=swap');
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+body
+{
+	transition: background 1s ease;
+	background: #F7F6F5;
+	height: 100vh;
+}
+
+/* nav bar */
+.sticky 
+{
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 70px;
+	width: 100%;
+	display:flex;
+	background: #F3EFE9;
+	z-index: 100;
+}
+
+header
+{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+	transition: 0.6s;
+	z-index: 1000;
+}
+
+header .nav
+{
+	position: fixed;
+	left: 0;
+	width: 100%;
+	display: flex;
+	padding: 20px;
+	justify-content: space-between;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	z-index: 1000;
+}
+
+header ul
+{
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+header ul li
+{
+	position: relative;
+	list-style: none;
+	display: inline-block;
+	padding: 0.5vmax;
+	margin-left: 1.5vmax;
+	letter-spacing: 0.2px;
+	font-size: 0.9em;
+}
+
+header ul li a
+{
+	position: relative;
+	padding: 4px 2px;     /* hover padding*/
+	color: #282828;
+	background: #ffffff;
+	border-radius: 5px;
+	
+	text-decoration: none;
+	font-family: 'Neue Helvetica', sans-serif;
+	transition: all 1s;	
+}
+
+header ul li a:hover
+{
+	padding: 7.9px 10.2px;
+	color: #282828;
+	border-radius: 4px;
+	border: solid 1px #FCA879;
+	transition: 0.1s;
+}
+
+ul li a:hover
+{
+	transform: scale(1.1);
+	cursor: pointer;
+}
+
+
+/* title */
+
+.title
+{
+	position: relative;
+	display: block;
+	margin: 7vmin 70px 0;
+	transition: 0.2s;
+	
+	margin-top: 30vmin;
+	margin-bottom: 10vmin;
+	left: 0px;
+}
+
+h1
+{
+	font-size: 3.5vmax;
+	line-height: 20px;
+	
+	position: relative;
+	display: block;
+	text-align: center;
+}
+
+h2
+{
+	font-size: 2.8vmax;
+	line-height: 40px;
+	justify-content: center;
+	text-align: center;
+}
+
+h3
+{
+	font-size: 2.2vmax;
+	justify-content: center;
+	text-align: center;
+	
+}
+
+.section
+{
+	position: relative;
+	display: block;
+	margin: 10px 100px 40px;
+}
+
+
+.content
+{
+	position: relative;
+	display: block;
+	margin: 25px 10px 50px;
+}
+
+.content a
+{
+	color: #F57B36;
+}
+
+.content a:hover
+{
+	cursor: pointer;
+	color: #FAC57E;	
+	transition: all 0.2s;	
+}
+
+table
+{
+	position: relative;
+	margin: 30px 80px;
+}
+
+
+#next
+{
+	text-align: right;
+}
+
+table a
+{
+	color: #F57B36;
+}
+
+table a:hover
+{
+	cursor: pointer;
+	color: #FAC57E;	
+	transition: all 0.2s;	
+}
+
+.footer
+{
+	color:#756B6A;
+	margin-top: 20vmin;
+	bottom: 40px; 
+	padding: 0px 10px 1px;
+	line-height:20px;
+}
