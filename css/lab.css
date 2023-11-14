@@ -173,6 +173,13 @@ h3
 	transition: all 0.2s;	
 }
 
+.verovio
+{
+	position: relative;
+	display: block;
+	margin: 10px 100px 50px;
+}
+
 iframe
 {
 	position: relative;
