@@ -191,12 +191,13 @@ iframe
 	margin: 1vmax 7px 10px;
 }
 
+/*  adjust  */
+
 table
 {
 	position: relative;
 	margin: 30px 80px;
 }
-
 
 #next
 {
@@ -219,6 +220,8 @@ table a:hover
 	color: #FAC57E;	
 	transition: all 0.2s;	
 }
+
+/*  adjust  */
 
 .footer
 {
