@@ -54,7 +54,6 @@
 
              <perfMedium>
 		<perfResList>
-		//xml:id="medium"
 		<perfRes>Piano</perfRes>
 		</perfResList>
              </perfMedium>
@@ -62,7 +61,7 @@
              <classification>
 
                 <genre> Classical Stage and Screen Music </genre>
-		<classCode auth="ALLMusic" authURI="https://www.allmusic.com/style/ma0000004432"/> //xml:id="header.ALLMusic"//
+		<classCode auth="ALLMusic" authURI="https://www.allmusic.com/style/ma0000004432"/>
              </classification>
 
       </workList>
