@@ -212,6 +212,50 @@ tei-teiHeader {
   display: none;
 }
 
+/* Wk8 Table */
+
+table
+{
+	position: relative;
+	table-layout: fixed;
+	width: 90%;
+	justify-content: center;
+	border-collapse: collapse;
+	margin: 0 40px;
+}
+
+.header
+{
+	font-weight: bold;
+}
+
+th
+{
+	background-color: #FFEDC4;	
+}
+
+th, td
+{
+	padding: 5px 15px;	
+}
+
+td a
+{
+	color: #F57B36;
+}
+
+td a:hover
+{
+	cursor: pointer;
+	color: #FAC57E;	
+	transition: all 0.2s;	
+}
+
+tr:nth-child(even)
+{
+	background-color: #FFFFFF
+}
+
 
 /*  foot page nav  */
 
