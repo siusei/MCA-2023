@@ -45,39 +45,160 @@
 
     <!-- Content -->
     <div class="section">
+	    	<h3>Finding 3 Audios</h3>
 		<p class="content">
-			In this lab, I used Music21 to analysis my piece. Below are the notation analytical graphs based on the piece's pitch patterns and note duration analysed from measure one to ten. 
+			In this section, I selected 3 music tracks related to my theme and they are all from the Studio Ghibli movie soundtracks.
 			<br><br>
-			They are demonstrated as follow: 
+			<br><br>
+			
+			1. One Summer Day (from Spirited Away)
+			<br>
+			<audio controls>
+				<source src="One_Spirited_Away.mp3" type="audio/mpeg">
+			</audio>
+			<br><br>
+			<br><br>
+			1. A Journey (from The Wind Rises)
+			<br>
+			<audio controls>
+				<source src="A_Journey.mp3" type="audio/mpeg">
+			</audio>
+			<br><br>
+			1. Stroll (from My Neighbor Totoro)
+			<br>
+			<audio controls>
+				<source src="Stroll.mp3" type="audio/mpeg">
+			</audio>		
 		</p>
 	</div>
+
+<hr>
 	  
-	<div class="section">
+    <div class="section">
+	    <h3>Metadata of each Audio</h3>
     	<p class="content">
-			<b>Piano Roll</b>
-			<br><br>
-				This Piano Roll graph visualises the pitch and duration of each note from the initial ten measures.
-			<br><br>
-			<img class="img" src="https://siusei.github.io/MCA-2023/data/Piano_roll.png" alt="Piano Roll">
-		</p>
-		
-		<p class="content">
-			<b>Scatter Plot of Pitches</b>
-			<br><br>
-				The Scatter Plot illustrates the note length, pitch patterns and range, as well as frequency use of the notes in this full music piece. It analysed that the most common pitch range and length lies on most half notes. The highest note is C7 and lowest is A1. These data suggest that this is a lively and moderate paced piece.
-			<br><br>
-			 <img class="img" src="https://siusei.github.io/MCA-2023/data/Scatter_plot.png" alt="Scatter Plot">
-		</p>
-		
-		<p class="content">
-			<b>Histogram</b>
-			<br><br>
-				The Histogram shows the played frequency of each note in this piece. The most common note is B4 and the least frequent is C7.
-			<br><br>
-			<img class="img" src="https://siusei.github.io/MCA-2023/data/Histogram.png" alt="Histogram">
-		</p>
-		
+		<table>
+			<tr class="header">
+				<th>Title</th>
+				<th>One Summer Day</th>
+				<th>A Journey (A Dream of Flight)</th>
+				<th>Stroll (Hey Let's Go)</th>
+			</tr>
+			<tr>
+				<th>Artist</th>
+				<td>Joe Hisaishi</td>
+				<td>Joe Hisaishi</td>
+				<td>Azumi Inoue</td>
+			</tr>
+			<tr>
+				<th>Composer</th>
+				<td>Joe Hisaishi</td>
+				<td>Joe Hisaishi</td>
+				<td>Joe Hisaishi</td>
+			</tr>
+			<tr>
+				<th>Year</th>
+				<td>2001</td>
+				<td>2013</td>
+				<td>1988</td>
+			</tr>
+			<tr>
+				<th>Album</th>
+				<td>Spirited Away</td>
+				<td>The Wind Rises</td>
+				<td>My Neighbor Totoro</td>
+			</tr>
+			<tr>
+				<th>Genre</th>
+				<td>Classical, Stage and Screen</td>
+				<td>Country, Stage and Screen</td>
+				<td>lullaby</td>
+			</tr>
+			<tr>
+				<th>Instrument</th>
+				<td>Piano with orchestra</td>
+				<td>Guitar and accordions with orchestra</td>
+				<td>Vocal with orchestra</td>
+			</tr>
+			<tr>
+				<th>Copyright</th>
+				<td>CC BY-NC-SA</td>
+				<td>CC BY-NC-SA</td>
+				<td>CC BY-NC-SA</td>
+			</tr>
+			<tr>
+				<th>Audio Format</th>
+				<td>MP3</td>
+				<td>MP3</td>
+				<td>MP3</td>
+			</tr>
+			<tr>
+				<th>Source</th>
+				<td>YouTube <br><a href="https://www.youtube.com/watch?v=iOYAl37AScY">Link to Audio</a> </td>
+				<td>YouTube <br><a href="https://www.youtube.com/watch?v=jT0Lh-N3TSg">Link to Audio</a> </td>
+				<td>YouTube <br><a href="https://www.youtube.com/watch?v=DoDJX9pPFLY">Link to Audio</a> </td>
+			</tr>
+			<tr>
+				<th>Number of Channels</th>
+				<td>2</td>
+				<td>2</td>
+				<td>2</td>
+			</tr>
+			<tr>
+				<th>Sample Rate</th>
+				<td>44.1kHz</td>
+				<td>44.1kHz</td>
+				<td>44.1kHz</td>
+			</tr>
+			<tr>
+				<th>Bits per second</th>
+				<td>128kbps</td>
+				<td>128kbps</td>
+				<td>128kbps</td>
+			</tr>
+			<tr>
+				<th>Duration</th>
+				<td>3:10</td>
+				<td>2:55</td>
+				<td>1:57</td>
+			</tr>	
+		</table>
+	</p>	
     </div>
+
+<hr>
+	  
+    <div class="section">
+	    <h3>Basic Audio Analysis with SonicVisualizer</h3>
+    	<p class="content">
+		For this task, I generated the spectrograms for the 3 tracks in SonicVisualizer
+		<br><br><br><br>
+		Below are the Waveform (upper) and Spectrograms (lower) analysis of the audios:
+		<br><br>
+			<b>One Spirited Away</b>
+		<br>
+			<img src="Spectrogram_OSD.png" width="80%">
+		<br><br>
+			<b>A Journey (A Dream of Flight)</b>
+		<br>
+			<img src="Spectrogram_J.png" width="80%">
+		<br><br>
+			<b>Stroll (Hey Let's Go)</b>
+		<br>
+			<img src="Spectrogram_Stroll.png" width="80%">
+	</p>	
+    </div>
+
+<hr>
+
+    <div class="section">
+	    <h3>Time-frequency Analysis vs Waveform-based Analysis</h3>
+    	<p class="content">
+		
+	</p>
+    </div>
+
+	  
 
       <!-- Navigate to next week -->
     <div class="wk">
