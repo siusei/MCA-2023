@@ -17,7 +17,7 @@
             		<addrLine><geogName codedval="7004472" authURI="http://vocab.getty.edu/page/tgn/" auth="TGN">Tokyo</geogName></addrLine>
              		<addrLine><geogName codedval="2059221" authURI="http://vocab.getty.edu/page/tgn/" auth="TGN">Japan</geogName></addrLine>
          	</address>
-         	<date isodate="2023" type="encoding-date">2023</date>
+         	<date isodate="2023" type="encoding-date">2023-11-02</date>
             	<availability>
             		<useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/" auth="Creative Commons">
                 This file is protected under Creative Commons Attribution 4.0 International, CC BY-NC-SA
