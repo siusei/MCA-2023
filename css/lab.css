@@ -275,7 +275,7 @@ table tr:last-child td:last-child {
 {
 	position: relative;
 	table-layout: fixed;
-	width: 90%;
+	width: 98%;
 	justify-content: center;
 	border-collapse: collapse;
 	margin: 0 40px;
