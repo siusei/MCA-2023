@@ -36,28 +36,37 @@
             </application>
          </appInfo>
       </encodingDesc>
+
       <workList>
+
 	     <title>A Town with an Ocean View</title>
+
 	     <creation xml:id="released_date" authURI="https://musicbrainz.org/release-group/f4206679-7c54-3e04-b573-453fdabc17de" auth="Music Brainz">
-		<date>1989</date>
-		//xml:id="address"		
+		
+		<date>1989</date>	
 		<geogName>Tokyo, Japan</geogName>
+
 	     </creation>
+
              <key pname="g" mode="major"/>
              <tempo>Moderato</tempo>
              <meter count="4" unit="4"/>
+
              <perfMedium>
 		<perfResList>
 		//xml:id="medium"
 		<perfRes>Piano</perfRes>
 		</perfResList>
              </perfMedium>
+
              <classification>
+
                 <genre> Classical Stage and Screen Music </genre>
-		//class="#header.ALLMusic"               
 		<classCode auth="ALLMusic" authURI="https://www.allmusic.com/style/ma0000004432"/> //xml:id="header.ALLMusic"//
              </classification>
+
       </workList>
+
    </meiHead>
    <music>
       <body>
