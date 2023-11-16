@@ -203,6 +203,16 @@ iframe
 	transform: translateX(2%);
 }
 
+/* Wk7 */
+#description {
+  margin: 0 0 1em 0;
+}
+
+tei-teiHeader {
+  display: none;
+}
+
+
 /*  foot page nav  */
 
 .wk
