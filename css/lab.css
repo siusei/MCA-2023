@@ -269,6 +269,28 @@ table tr:last-child td:last-child {
 	border-radius: 0 0 10px 0;
 }
 
+/* wk9 table */
+
+.wk9_table
+{
+	position: relative;
+	table-layout: fixed;
+	width: 90%;
+	justify-content: center;
+	border-collapse: collapse;
+	margin: 0 40px;
+   	border-radius: 10px;
+    	border-spacing:0 15px;
+	font-size: 0.8em;
+
+}
+
+.wk9_table th
+.wk9_table tr
+{
+	padding: 5px;
+}
+
 
 
 /*  foot page nav  */
