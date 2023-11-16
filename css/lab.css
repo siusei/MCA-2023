@@ -256,12 +256,6 @@ tr:nth-child(even)
 	background-color: #FFFFFF
 }
 
-
-table th:first-child
-{
-	border-radius: 10px 0 0 10px;
-}
-
 table th:last-child
 {
 	border-radius: 0 10px 0 0;
