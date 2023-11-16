@@ -20,14 +20,6 @@
              		<addrLine><geogName codedval="2059221" authURI="http://vocab.getty.edu/page/tgn/" auth="TGN">Japan</geogName></addrLine>
          	</address>
          	<date isodate="2023" type="encoding-date">2023</date>
-            	<availability>
-            		<useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/" auth="Creative Commons">
-                This file is protected under Creative Commons Attribution 4.0 International, CC BY-NC-SA
-                The source used is to encode metadata in an MEI project for Music Curation and Analytics.
-                The project outcome is not designed for profiting nor commercial purposes.
-                But, others are able to modify or build up on additional metadata of this piece.
-             		</useRestrict>
-            	</availability>
          </pubStmt>
      	 </fileDesc>
       <encodingDesc>
