@@ -46,18 +46,61 @@
 
     <!-- Content -->
     <div class="section">
+	    	<h2>Audio Similarity</h2>
 		<p class="content">
-			
-		</p>
+				In this task, I generated audio similarity matrix with Python and I decided to reuse audios from last week along with the tracks provided in this week's demo. 
+			<br><br>
+				Here are the order and genres of the tracks:
+			<br><br>
+				<dl>
+				<dt><b>Tracks 0-3:</b> Classical and Classical Screen & Play genre<dt>
+					<dd>- Track 0: One Summer Day</dd>
+					<dd>- Track 1: A Journey</dd>
+					<dd>- Track 2: Stroll</dd>
+					<dd>- Track 3: Classical Demo</dd>
+				<dt><b>Tracks 4-6:</b> Rock genre</dt>
+					<dd>- All tracks from demo collection</dd>
+				<dt><b>Tracks 7-9:</b> Country genre</dt>
+					<dd>- All tracks from demo collection</dd>
+				</dl>
+   		 </p>
+	    	 <p class="content">
+	    		<h3>Chroma features</h3>
+	    		<br>
+	    			Based on these tracks, I first extracted the Chroma features in SonicVisualiser and visualised them on Python to observe the music patterns from each genre.
+	    		<br><br>
+	    			Below the Chromagrams (left) and mean Chroma feature vectors (right) of the 10 audios:
+	    		<br><br>
+				<img src="chroma_10tracks.png" width="40%"><img src="meanChroma.png" width="40%">
+	    			<i><b>Notes:</b> 
+					<br>1) Chromagram illustrates the each note's characteristics played in the audio across octaves. 
+					<br>2) Mean Chroma Feature maps the average occurance of all notes in an audio.
+				</i>
+	    	
+	    		<br><br>
+	    			According to the Chroma feature plots, they capture distinct differences in regards of the music structure, tonality, pitches and beats patterns for each genre based on the changes of colour and note vectors.
+	    			<br><br>For example, 
+	    			<br>
+	    			- Tracks 0-3, as the classical music: 
+	    				<br>	They initially appear to have a lower energy in volume and have a gradual increase in loudness as the audios progress toward the end. The plots of these four tracks depict that the music structure and layer are less complex because of the key scales and notes arrangement.
+	    			<br>
+	    			- Tracks 4-6, as the rock genre: 
+	    				<br>	The colour patterns, emphasise with brighter green colour, are consistence and concentrated, which suggests that the rock genre have a higher density and occurance of all notes especially in the sharps and flats.
+	    			<br>
+	    			- Tracks 7-9, as the country genre:
+	    				<br>	Music patterns are similar to the rock genre in regard to beats and consistency in notes. Nonetheless, the note density is comparatively scattered and there are obvious music sections of verse and chorus identified with the colour change.
+
+		 </p>
+	    	 <p class="content">
+			 <h3>Generating Similarity Matrices</h3>
+			<br>
+			 In visualising 
+		
 	  </div>
 	  
 	<div class="section">
     	<p class="content">
-			<b>Piano Roll</b>
-			<br><br>
-				This Piano Roll graph visualises the pitch and duration of each note from the initial ten measures.
-			<br><br>
-			<img class="img" src="https://siusei.github.io/MCA-2023/data/Piano_roll.png" alt="Piano Roll">
+			
 		</p>
 		
 		<p class="content">
