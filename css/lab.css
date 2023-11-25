@@ -291,6 +291,61 @@ table tr:last-child td:last-child {
 	padding: 5px;
 }
 
+/* slider code obtained from: @Skillthrive, https://www.youtube.com/watch?v=McPdzhLRzCg */
+.container
+{
+	padding: 2.5em;
+}
+
+.slider-wrapper
+{
+	position: relative;
+	max-width: 48em;
+	margin: 0 auto;
+}
+
+.slider
+{
+	display: flex;
+	aspect-ratio: 1 / 1.41;
+	overflow-x: auto;
+	scroll-snap-type: x mandatory;
+	scroll-behavior: smooth;
+	border-radius: 0.5em;
+}
+
+.slider img
+{
+	flex: 1 0 100%;
+	scroll-snap-align: start;
+	object-fit: cover;
+}
+
+.slider-nav
+{
+	display: flex;
+	column-gap: 1em;
+	position: absolute;
+	bottom: 1.25em;
+	left: 50%;
+	transofrm: translateX(-50%);
+	z-index: 1;
+}
+
+.slider-nav a
+{
+	width: 0.5em;
+	height: 0.5em;
+	border-radius: 50%; 
+	background-color: #F57B36;
+	opacity: 0.75;
+	transition: opacity ease 250ms;
+}
+
+.slider-nav a:hover
+{
+	opacity: 1;
+}
 
 
 /*  foot page nav  */
