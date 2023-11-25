@@ -327,7 +327,6 @@ table tr:last-child td:last-child {
 	column-gap: 1em;
 	position: absolute;
 	bottom: 1.25em;
-	left: 50%;
 	z-index: 1;
 }
 
