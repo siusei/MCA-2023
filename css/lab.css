@@ -328,7 +328,6 @@ table tr:last-child td:last-child {
 	position: absolute;
 	bottom: 1.25em;
 	left: 50%;
-	transofrm: translateX(-50%);
 	z-index: 1;
 }
 
