@@ -400,12 +400,23 @@ mei-worklist > mei-title
 	display: block;
 }
 
+mei-worklist > mei-title::before
+{
+	content: "Song title:";
+	font-family: Arial;
+	font-weight: bold;
+}
+
+mei-worklist > mei-creation > mei-date 
+{
+	display: block;
+}
+
 mei-worklist > mei-creation > mei-date::before 
 {
 	content: "Released:";
 	font-family: Arial;
 	font-weight: bold;
-	display: block;
 }
 
 mei-worklist > mei-creation > mei-geogname 
@@ -427,7 +438,7 @@ mei-worklist > mei-key
 
 mei-worklist > mei-key::before
 {
-	content: "Key:";
+	content: "Key: G major";
 	font-family: Arial;
 	font-weight: bold;
 }
@@ -440,18 +451,6 @@ mei-worklist > mei-tempo
 mei-worklist > mei-tempo::before
 {
 	content: "Tempo:";
-	font-family: Arial;
-	font-weight: bold;
-}
-
-mei-worklist > mei-meter
-{
-	display:block;
-}
-
-mei-worklist > mei-meter::before
-{
-	content: "Meter:";
 	font-family: Arial;
 	font-weight: bold;
 }
