@@ -393,6 +393,57 @@ table tr:last-child td:last-child {
 	transition: all 0.2s;
 }
 
+/*  MEI  */
+
+mei-worklist > mei-title 
+{
+	display: block;
+}
+
+mei-worklist > mei-creation > mei-date::before 
+{
+	content: "Released:";
+	font-family: Arial;
+	font-weight: bold;
+	display: block;
+}
+
+mei-worklist > mei-creation > mei-geogname 
+{
+	display:block;
+}
+
+mei-worklist > mei-creation > mei-geogname::before 
+{
+	content: "Location:";
+	font-family: Arial;
+	font-weight: bold;
+}
+
+mei-worklist > mei-key
+{
+	display:block;
+}
+
+mei-worklist > mei-tempo
+{
+	display:block;
+}
+
+mei-worklist > mei-meter
+{
+	display:block;
+}
+
+mei-worklist > mei-perfMedium > mei-perfResList > mei-perfRes
+{
+	display:block;
+}
+
+mei-worklist > mei-classification > mei-genre
+{
+	display:block;
+}
 
 /*  footer  */
 
