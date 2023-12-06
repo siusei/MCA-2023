@@ -402,7 +402,7 @@ mei-worklist > mei-title
 
 mei-worklist > mei-title::before
 {
-	content: "Song title:";
+	content: "Song title: ";
 	font-family: Arial;
 	font-weight: bold;
 }
@@ -414,7 +414,7 @@ mei-worklist > mei-creation > mei-date
 
 mei-worklist > mei-creation > mei-date::before 
 {
-	content: "Released:";
+	content: "Released: ";
 	font-family: Arial;
 	font-weight: bold;
 }
@@ -426,7 +426,7 @@ mei-worklist > mei-creation > mei-geogname
 
 mei-worklist > mei-creation > mei-geogname::before 
 {
-	content: "Location:";
+	content: "Location: ";
 	font-family: Arial;
 	font-weight: bold;
 }
@@ -450,7 +450,7 @@ mei-worklist > mei-tempo
 
 mei-worklist > mei-tempo::before
 {
-	content: "Tempo:";
+	content: "Tempo: ";
 	font-family: Arial;
 	font-weight: bold;
 }
@@ -462,7 +462,7 @@ mei-worklist > mei-perfMedium > mei-perfResList > mei-perfRes
 
 mei-worklist > mei-perfMedium > mei-perfResList > mei-perfRes::before
 {
-	content: "Performed Medium:";
+	content: "Performed Medium: ";
 	font-family: Arial;
 	font-weight: bold;
 }
@@ -474,7 +474,7 @@ mei-worklist > mei-classification > mei-genre
 
 mei-worklist > mei-classification > mei-genre::before
 {
-	content: "Genre:";
+	content: "Genre: ";
 	font-family: Arial;
 	font-weight: bold;
 	display:block;
