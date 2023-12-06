@@ -425,9 +425,23 @@ mei-worklist > mei-key
 	display:block;
 }
 
+mei-worklist > mei-key::before
+{
+	content: "Key:";
+	font-family: Arial;
+	font-weight: bold;
+}
+
 mei-worklist > mei-tempo
 {
 	display:block;
+}
+
+mei-worklist > mei-tempo::before
+{
+	content: "Tempo:";
+	font-family: Arial;
+	font-weight: bold;
 }
 
 mei-worklist > mei-meter
@@ -435,13 +449,35 @@ mei-worklist > mei-meter
 	display:block;
 }
 
+mei-worklist > mei-meter::before
+{
+	content: "Meter:";
+	font-family: Arial;
+	font-weight: bold;
+}
+
 mei-worklist > mei-perfMedium > mei-perfResList > mei-perfRes
 {
 	display:block;
 }
 
+mei-worklist > mei-perfMedium > mei-perfResList > mei-perfRes::before
+{
+	content: "Performed Medium:";
+	font-family: Arial;
+	font-weight: bold;
+}
+
 mei-worklist > mei-classification > mei-genre
 {
+	display:block;
+}
+
+mei-worklist > mei-classification > mei-genre::before
+{
+	content: "Genre:";
+	font-family: Arial;
+	font-weight: bold;
 	display:block;
 }
 
